@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
+	<flow name="tokeniooFlow" doc:id="ad6044da-83c8-4e84-97c8-33dc96e52fbf" >
+		<logger level="INFO" doc:name="Logger" doc:id="1678d49b-d452-4688-aa43-4ce60a8b3aa4" />
+	</flow>
+</mule>
